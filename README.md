@@ -7,7 +7,7 @@ I used ChatGPT for some of the earlier steps of the project that involve creatin
 ## IPYNB File Errors
 There are issues with the IPYNB file working relative to the original dataset. If it doesn't work, try using the python file I uploaded to this repo!
 
-##Libraries
+## Libraries
 polars
 ydata-profiling
 matplotlib
